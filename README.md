@@ -18,3 +18,24 @@ The project uses a table named student_performance containing the following colu
 | `exam_score`                 | Final exam score                               | `float`                             |
 | `hours_studied`              | Number of hours studied per week               | `integer`                           |
 
+## 📈 Key Takeaways
+Balanced involvement in academics and extracurriculars boosts exam performance.
+
+Higher study hours generally lead to better scores, especially beyond 11 hours/week.
+
+A holistic routine that includes good sleep, tutoring, and attendance is common among top performers.
+
+Data-driven insights can help shape educational strategies and personal study plans.
+
+## 🛠️ Tools Used
+SQL: For querying and analyzing the data
+
+DBMS: Any SQL-supported platform like PostgreSQL, MySQL, or SQLite
+
+## 📚 Future Enhancements
+Visualizing trends using Power BI or Tableau
+
+Incorporating more variables like socioeconomic status or parental involvement
+
+Performing predictive modeling with Python or R
+
